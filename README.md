@@ -14,8 +14,8 @@ A smart AI-powered personal assistant designed to automate tasks, manage schedul
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/AI-Assistant.git
-cd AI-Assistant
+git clone https://github.com/anurag-srivatsav/Desktop_AI.git
+cd RK_Assistant
 ```
 
 ### 2️⃣ Install Dependencies  
