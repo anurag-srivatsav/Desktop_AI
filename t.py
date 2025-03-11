@@ -26,7 +26,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 
 # Initialize Groq API
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "Add your own api key"
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 # Define theme colors
