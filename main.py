@@ -35,7 +35,7 @@ import win32com.client
 import pyautogui
 
 # Initialize Groq API
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "keep_ur_groq_api"
 GROQ_API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 # Define theme colors
